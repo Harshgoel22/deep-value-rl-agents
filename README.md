@@ -1,4 +1,4 @@
-# Deep Value-Based Reinforcement Learning Agents
+# Deep Q-Learning & Value-Based RL Benchmark
 
 From-scratch PyTorch implementation of five deep value-based RL agents — **NFQ, DQN, Double DQN, Dueling Double DQN (D3QN), and Dueling Double DQN with Prioritized Experience Replay (D3QN-PER)** — benchmarked on two classic control environments with markedly different reward structures.
 
